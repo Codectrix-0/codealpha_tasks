@@ -61,7 +61,10 @@ Calculator/
 Example:
 
 ```
-📷 calculator-preview.png
+## 📸 Preview
+
+![Calculator Preview]<img width="402" height="580" alt="image" src="https://github.com/user-attachments/assets/a24cbe91-b812-4e44-80db-a6ba14b74a08" />
+
 ```
 
 ---
