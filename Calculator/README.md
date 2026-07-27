@@ -1,38 +1,61 @@
-# 🧮 Calculator
+<div align="center">
 
-A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations with a clean user interface and interactive button effects.
+# 🧮 Modern Calculator
+
+### A responsive and interactive calculator built using HTML, CSS & JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+</div>
 
 ---
 
-## 📌 Project Overview
+## 📖 About The Project
 
-This calculator allows users to perform simple mathematical calculations through an easy-to-use interface. It was developed as part of the **CodeAlpha Frontend Development Internship** to demonstrate fundamental web development skills.
+This project is a **Modern Calculator** developed using **HTML, CSS, and JavaScript** as part of the **CodeAlpha Frontend Development Internship**.
+
+It provides a clean, responsive, and user-friendly interface for performing basic arithmetic calculations while demonstrating the fundamentals of front-end web development.
 
 ---
 
-## ✨ Features
+# 📸 Preview
+
+<p align="center">
+    <img src="./calculator-preview.png" alt="Calculator Preview" width="300">
+</p>
+
+---
+
+# ✨ Features
 
 - ➕ Addition
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- 🗑️ Clear Display (C)
+- 🗑️ Clear Screen
 - ⌫ Backspace Function
-- 📱 Responsive Design
-- 🎨 Modern User Interface
-- 🖱️ Hover & Click Button Effects
+- 📱 Responsive Layout
+- 🎨 Modern UI Design
+- ⚡ Fast Calculation
+- 🖱️ Hover & Click Effects
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Calculator Logic |
 
 ---
 
-## 📂 Project Structure
+# 📂 Folder Structure
 
 ```text
 Calculator/
@@ -40,70 +63,82 @@ Calculator/
 ├── index.html
 ├── style.css
 ├── script.js
+├── calculator-preview.png
 └── README.md
 ```
 
 ---
 
-## 🚀 How to Run the Project
+# 🚀 Getting Started
 
-1. Download or clone this repository.
-2. Open the **Calculator** folder.
-3. Double-click **index.html** or open it with **Live Server** in VS Code.
-4. Start performing calculations.
+### Clone the Repository
 
----
-
-## 📸 Preview
-
-> Add a screenshot of your calculator here after completing the project.
-
-Example:
-
-```
-## 📸 Preview
-
-<img width="403" height="580" alt="image" src="https://github.com/user-attachments/assets/0602aa0c-03cf-4d5f-b4b9-d6a9f8d7da5f" />
-
-
-
+```bash
+git clone https://github.com/Codectrix-0/codealpha_tasks.git
 ```
 
----
+### Open Project
 
-## 💡 Future Improvements
+```text
+Calculator/
+```
 
-- Keyboard Support
-- Dark/Light Theme
-- Scientific Calculator Functions
-- Calculation History
-- Percentage Calculation
-- Memory Functions (M+, M-, MR)
+Open **index.html** in your browser or run it using **Live Server** in VS Code.
 
 ---
 
-## 🎯 Learning Outcomes
+# 💻 How It Works
+
+1. Click the number buttons.
+2. Select an arithmetic operator.
+3. Enter another number.
+4. Press **=** to calculate.
+5. Use **C** to clear the display.
+6. Use **⌫** to delete the last character.
+
+---
+
+# 🎯 Learning Outcomes
 
 Through this project, I learned:
 
-- Creating webpage layouts using HTML
-- Styling interfaces with CSS
-- Handling user interactions using JavaScript
-- DOM Manipulation
+- HTML page structure
+- CSS styling
+- Responsive design
+- JavaScript DOM Manipulation
 - Event Handling
+- Functions
 - Basic Programming Logic
 
 ---
 
-## 👩‍💻 Author
+# 🚀 Future Improvements
 
-**Divya Mer**
-
-- GitHub: https://github.com/Codectrix-0
-- LinkedIn: https://www.linkedin.com/in/divyamer
+- ⌨️ Keyboard Support
+- 🌙 Dark/Light Mode
+- 📜 Calculation History
+- 🧮 Scientific Calculator
+- 💾 Memory Functions
+- 📱 Better Mobile Optimization
 
 ---
 
-## 📜 License
+# 👩‍💻 Author
 
-This project is created for educational purposes as part of the **CodeAlpha Frontend Development Internship**.
+### Divya Mer
+
+🔗 **GitHub:**  
+https://github.com/Codectrix-0
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/divyamer
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a Star!
+
+Made with ❤️ by **Divya Mer**
+
+</div>
