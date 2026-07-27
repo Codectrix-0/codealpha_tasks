@@ -24,13 +24,6 @@ The **Modern Calculator** is a frontend web application that performs basic arit
 
 This project was developed as part of the **CodeAlpha Frontend Development Internship** to strengthen practical knowledge of web development fundamentals while implementing interactive JavaScript functionality.
 
----
-
-# 📸 Application Preview
-
-<p align="center">
-<img src="image.png" width="350" alt="Calculator Screenshot">
-</p>
 
 ---
 
