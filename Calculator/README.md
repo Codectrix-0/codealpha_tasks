@@ -63,7 +63,8 @@ Example:
 ```
 ## 📸 Preview
 
-![Calculator Preview]<img width="402" height="580" alt="image" src="https://github.com/user-attachments/assets/a24cbe91-b812-4e44-80db-a6ba14b74a08" />
+![Calculator Preview]<img width="403" height="580" alt="Screenshot 2026-07-27 205509" src="https://github.com/user-attachments/assets/ab0849f9-bc17-43da-a5b0-d0c4c80131c2" />
+
 
 ```
 
