@@ -29,7 +29,7 @@ This project was developed as part of the **CodeAlpha Frontend Development Inter
 # 📸 Application Preview
 
 <p align="center">
-<img src="assets/calculator-preview.png" width="350" alt="Calculator Screenshot">
+<img src="image.png" width="350" alt="Calculator Screenshot">
 </p>
 
 ---
