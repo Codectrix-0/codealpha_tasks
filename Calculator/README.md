@@ -2,143 +2,183 @@
 
 # 🧮 Modern Calculator
 
-### A responsive and interactive calculator built using HTML, CSS & JavaScript
+### Frontend Development Project | CodeAlpha Internship
+
+A responsive calculator developed using **HTML**, **CSS**, and **JavaScript**, demonstrating core frontend development concepts including DOM manipulation, event handling, and responsive user interface design.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </p>
 
 </div>
 
 ---
 
-## 📖 About The Project
+# 📋 Project Overview
 
-This project is a **Modern Calculator** developed using **HTML, CSS, and JavaScript** as part of the **CodeAlpha Frontend Development Internship**.
+The **Modern Calculator** is a frontend web application that performs basic arithmetic operations through an intuitive and responsive user interface.
 
-It provides a clean, responsive, and user-friendly interface for performing basic arithmetic calculations while demonstrating the fundamentals of front-end web development.
+This project was developed as part of the **CodeAlpha Frontend Development Internship** to strengthen practical knowledge of web development fundamentals while implementing interactive JavaScript functionality.
 
 ---
 
-# 📸 Preview
+# 📸 Application Preview
 
 <p align="center">
-    <img src="./calculator-preview.png" alt="Calculator Preview" width="300">
+<img src="assets/calculator-preview.png" width="350" alt="Calculator Screenshot">
 </p>
 
 ---
 
 # ✨ Features
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🗑️ Clear Screen
-- ⌫ Backspace Function
-- 📱 Responsive Layout
-- 🎨 Modern UI Design
-- ⚡ Fast Calculation
-- 🖱️ Hover & Click Effects
+- Perform Addition
+- Perform Subtraction
+- Perform Multiplication
+- Perform Division
+- Clear Display
+- Backspace Functionality
+- Interactive Button Effects
+- Responsive Layout
+- Clean User Interface
+- Error Handling
 
 ---
 
-# 🛠️ Built With
+# 🛠️ Tech Stack
 
 | Technology | Purpose |
-|------------|---------|
+|------------|----------|
 | HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Calculator Logic |
+| CSS3 | Styling & Responsive Design |
+| JavaScript | Application Logic |
 
 ---
 
-# 📂 Folder Structure
+# 📂 Project Structure
 
 ```text
-Calculator/
+Calculator
+│
+├── assets
+│   └── calculator-preview.png
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── calculator-preview.png
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
+# ⚙️ Installation
 
-### Clone the Repository
+Clone the repository
 
 ```bash
 git clone https://github.com/Codectrix-0/codealpha_tasks.git
 ```
 
-### Open Project
+Open the project
 
 ```text
-Calculator/
+Calculator/index.html
 ```
 
-Open **index.html** in your browser or run it using **Live Server** in VS Code.
+Run using
+
+- Live Server (VS Code)
+- or any modern web browser
 
 ---
 
-# 💻 How It Works
+# 🚀 Functionality
 
-1. Click the number buttons.
-2. Select an arithmetic operator.
-3. Enter another number.
-4. Press **=** to calculate.
-5. Use **C** to clear the display.
-6. Use **⌫** to delete the last character.
+| Button | Description |
+|---------|-------------|
+| 0-9 | Number Input |
+| + | Addition |
+| - | Subtraction |
+| * | Multiplication |
+| / | Division |
+| = | Calculate Result |
+| C | Clear Screen |
+| ⌫ | Delete Last Character |
+
+---
+
+# 📖 Concepts Implemented
+
+- Semantic HTML
+- CSS Grid Layout
+- Flexbox
+- Responsive Design
+- JavaScript Functions
+- DOM Manipulation
+- Event Listeners
+- String Operations
+- Error Handling using try...catch
 
 ---
 
 # 🎯 Learning Outcomes
 
-Through this project, I learned:
+This project helped strengthen understanding of:
 
-- HTML page structure
-- CSS styling
-- Responsive design
-- JavaScript DOM Manipulation
-- Event Handling
-- Functions
-- Basic Programming Logic
-
----
-
-# 🚀 Future Improvements
-
-- ⌨️ Keyboard Support
-- 🌙 Dark/Light Mode
-- 📜 Calculation History
-- 🧮 Scientific Calculator
-- 💾 Memory Functions
-- 📱 Better Mobile Optimization
+- HTML Document Structure
+- CSS Layout Techniques
+- JavaScript Logic Building
+- User Interaction Handling
+- Frontend Project Organization
+- Git & GitHub Workflow
 
 ---
 
-# 👩‍💻 Author
+# 🔮 Future Enhancements
 
-### Divya Mer
+- Scientific Calculator
+- Keyboard Support
+- Light/Dark Theme
+- Calculation History
+- Percentage Calculation
+- Memory Functions
+- Sound Feedback
+- Copy Result Feature
 
-🔗 **GitHub:**  
+---
+
+# 👩‍💻 Developer
+
+**Divya Mer**
+
+BCA Student | Frontend Developer | Open Source Contributor
+
+### Connect With Me
+
+GitHub
+
 https://github.com/Codectrix-0
 
-🔗 **LinkedIn:**  
+LinkedIn
+
 https://www.linkedin.com/in/divyamer
+
+---
+
+# 📄 License
+
+This project was developed for educational purposes as part of the **CodeAlpha Frontend Development Internship Program**.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving it a Star!
+### ⭐ Thank you for visiting this project.
 
-Made with ❤️ by **Divya Mer**
+If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 </div>
