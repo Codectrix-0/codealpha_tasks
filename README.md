@@ -57,7 +57,6 @@ This repository will continue to grow as I complete more internship tasks and im
 |----|---------|--------|--------------|
 | 01 | 🔢 Calculator | ✅ Completed | HTML, CSS, JavaScript |
 | 02 | 🔐 Password Generator | ✅ Completed | HTML, CSS, JavaScript |
-| 03 | 🖼️ Image Gallery | 🚧 Coming Soon | HTML, CSS, JavaScript |
 
 ---
 
